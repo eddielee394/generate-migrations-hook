@@ -15,7 +15,7 @@
   ],
   "require": {
     "larapack/hooks": "~1.0",
-    "tcg/voyager": "^1.2",
+    "tcg/voyager": "^1.2"
   },
   "autoload": {
     "psr-4": {
